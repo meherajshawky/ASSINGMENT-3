@@ -8,3 +8,16 @@ Our Package #package {
   border-radius: 20px;
   background-color: #3f87f5;
 }
+.shawk {
+  display: flex;
+  margin-top: 5%;
+}
+.shawky img {
+  border-radius: 50%;
+  width: 70%;
+  margin-left: 50px;
+  height: 70%;
+}
+.xtra {
+  text-align: center;
+}
